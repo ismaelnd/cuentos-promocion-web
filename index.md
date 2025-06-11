@@ -13,6 +13,7 @@ Algunos relatos parten de sueños que afloran desde el subconsciente; otros util
 
 ## 📚 Cuentos
 
+- [Equilibrio](cuentos/equilibrio.md)
 - [Teléfono roto universitario](cuentos/telefono-roto.md)
 - [Camino a la promoción](cuentos/camino-a-la-promocion.md)
 - [Juego de la oca (versión UMA)](cuentos/juego-de-la-oca.md)
