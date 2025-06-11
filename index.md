@@ -17,6 +17,7 @@ Todo estos cuentos han sido previamente publicados en mi perfil en LinkedIn.
 
 - [Equilibrio](cuentos/equilibrio.md)
 - [El pueblo de los fantasmas](cuentos/fantasmas.md)
+- [Los que esperaban](cuentos/esperan.md)
 
 ---
 ## ✍️ Sobre el uso de IA
