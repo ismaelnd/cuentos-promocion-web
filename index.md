@@ -16,10 +16,7 @@ Todo estos cuentos han sido previamente publicados en mi perfil en LinkedIn.
 ## 📚 Cuentos
 
 - [Equilibrio](cuentos/equilibrio.md)
-- [Teléfono roto universitario](cuentos/telefono-roto.md)
-- [Camino a la promoción](cuentos/camino-a-la-promocion.md)
-- [Juego de la oca (versión UMA)](cuentos/juego-de-la-oca.md)
-- [Los acreditados del ritmo](cuentos/los-acreditados-del-ritmo.md)
+- [El pueblo de los fantasmas](cuentos/fantasmas.md)
 
 ---
 ## ✍️ Sobre el uso de IA
