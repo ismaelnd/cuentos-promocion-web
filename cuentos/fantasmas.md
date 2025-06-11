@@ -23,7 +23,7 @@ Los fantasmas, entonces, empezaron a cambiar. No desaparecieron de golpe, pero y
 
 Y fue entonces cuando lo comprendieron:
 
-`   ` los fantasmas no eran solo del pasado.
+``` los fantasmas no eran solo del pasado.
  
  También estaban hechos del silencio del presente.
  
