@@ -25,17 +25,17 @@ Y fue entonces cuando lo comprendieron:
 
 <p style="text-indent: 4em;">los fantasmas no eran solo del pasado.</p>
  
- También estaban hechos del silencio del presente.
+ <p style="text-indent: 4em;">También estaban hechos del silencio del presente.</p>
  
- De la inacción.
+ <p style="text-indent: 4em;">De la inacción.</p>
  
- De cada "no es mi problema".
+ <p style="text-indent: 4em;">De cada "no es mi problema".</p>
 
 Para que el pueblo volviera a vivir sin miedo, no bastaba con que unos pocos lucharan.
 
- Todos debían despertar.
+<p style="text-indent: 4em;">Todos debían despertar.</p>
  
- Mirar a los ojos al pasado, y elegir algo distinto para el futuro.
+<p style="text-indent: 4em;">Mirar a los ojos al pasado, y elegir algo distinto para el futuro.</p>
 
 Feliz 1 de Mayo, ¡levantémonos!
 
