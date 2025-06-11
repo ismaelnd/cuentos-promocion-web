@@ -12,9 +12,9 @@ Allí, frente a su puerta principal, comenzaron a reunirse un día figuras que p
 
 No venían del cementerio, sino de las aulas, de los laboratorios, de los expedientes congelados en un limbo administrativo.
 
- No gritaban. No agitaban pancartas.
+<p style="text-indent: 1em;">No gritaban. No agitaban pancartas.</p>
 
- Simplemente estaban ahí, con camisetas negras que llevaban estampada una lápida: "Promoción a cátedra en la UMA".
+<p style="text-indent: 1em;">Simplemente estaban ahí, con camisetas negras que llevaban estampada una lápida: "Promoción a cátedra en la UMA".</p>
 
 Habían sido docentes, investigadores, tutores, coordinadores de máster.
 
@@ -23,31 +23,31 @@ Habían pasado años cumpliendo requisitos, obteniendo sexenios, liderando proye
 Habían conseguido la acreditación nacional a catedrático.
 
 Y luego… habían esperado.
- Un año.
- Dos.
- Tres.
- Algunos ya no sabían cuánto.
+<p style="text-indent: 1em;">Un año.</p>
+<p style="text-indent: 1em;">Dos.</p>
+<p style="text-indent: 1em;">Tres.</p>
+<p style="text-indent: 1em;">Algunos ya no sabían cuánto.</p>
 
 Otros ya no recordaban si aún estaban vivos… o si ya eran parte del mobiliario invisible de una universidad detenida.
 
 Los esqueletos no pedían privilegios. Solo pedían tiempo justo. Un plazo. Un compromiso. Una escalera en vez de un mausoleo.
 
 Pero desde dentro del rectorado solo llegaban fórmulas ambiguas:
- “Cuando se pueda”.
- “Estamos en ello”.
- “Depende del presupuesto”.
- Y las puertas seguían cerradas.
+<p style="text-indent: 1em;">“Cuando se pueda”.</p>
+<p style="text-indent: 1em;">“Estamos en ello”.</p>
+<p style="text-indent: 1em;">“Depende del presupuesto”.</p>
+<p style="text-indent: 1em;">Y las puertas seguían cerradas.</p>
 
 Entonces uno de los esqueletos, el más delgado, habló en voz baja:
-— No somos los restos del pasado.
- — Somos el futuro esperando demasiado.
+<p style="text-indent: 1em;">— No somos los restos del pasado.</p>
+<p style="text-indent: 1em;">— Somos el futuro esperando demasiado.</p>
 
 Y los demás lo escucharon.
- Y algunos vivos también.
+<p style="text-indent: 1em;">Y algunos vivos también.</p>
 
 Porque no se puede construir una universidad pública de calidad sobre la espera infinita de quienes ya han demostrado su valía.
 
 Ese día, los esqueletos no se disolvieron.
- Pero empezaron a contar su historia.
+<p style="text-indent: 1em;">Pero empezaron a contar su historia.</p>
  
 Y la universidad, si aún quiere tener alma, tendrá que escucharla.
