@@ -1,4 +1,7 @@
-# Equilibrio
+---
+layout: default
+title: Equilibrio
+---
 
 ![Ilustración del sueño con el oso](../imagenes/oso.jpeg)
 
