@@ -23,19 +23,19 @@ Los fantasmas, entonces, empezaron a cambiar. No desaparecieron de golpe, pero y
 
 Y fue entonces cuando lo comprendieron:
 
-<p style="text-indent: 4em;">los fantasmas no eran solo del pasado.</p>
+<p style="text-indent: 2em;">los fantasmas no eran solo del pasado.</p>
  
- <p style="text-indent: 4em;">También estaban hechos del silencio del presente.</p>
+ <p style="text-indent: 2em;">También estaban hechos del silencio del presente.</p>
  
- <p style="text-indent: 4em;">De la inacción.</p>
+ <p style="text-indent: 2em;">De la inacción.</p>
  
- <p style="text-indent: 4em;">De cada "no es mi problema".</p>
+ <p style="text-indent: 2em;">De cada "no es mi problema".</p>
 
 Para que el pueblo volviera a vivir sin miedo, no bastaba con que unos pocos lucharan.
 
-<p style="text-indent: 4em;">Todos debían despertar.</p>
+<p style="text-indent: 2em;">Todos debían despertar.</p>
  
-<p style="text-indent: 4em;">Mirar a los ojos al pasado, y elegir algo distinto para el futuro.</p>
+<p style="text-indent: 2em;">Mirar a los ojos al pasado, y elegir algo distinto para el futuro.</p>
 
 Feliz 1 de Mayo, ¡levantémonos!
 
