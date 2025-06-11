@@ -3,6 +3,8 @@ layout: default
 title: Equilibrio
 ---
 
+## Equilibrio
+
 ![Ilustración del sueño con el oso](../imagenes/oso.jpeg)
 
 Soñé que un oso enorme nos perseguía. No corría con furia, sino con la lenta inevitabilidad de lo que te supera en tamaño y tiempo. Nosotros —tres figuras descalzas y desconcertadas— huíamos a través de un campus fantasma, entre edificios sin terminar, con rótulos de presupuestos agotados y el eco de promesas institucionales.
