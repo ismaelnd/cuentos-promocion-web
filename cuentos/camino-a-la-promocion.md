@@ -1,0 +1,3 @@
+# Camino a la promoción
+
+En un tablero de casillas, cada paso parecía acercar la meta...

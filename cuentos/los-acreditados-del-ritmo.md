@@ -1,0 +1,3 @@
+# Los acreditados del ritmo
+
+Subimos al escenario con nuestra canción: 'Promoción en Do menor'...
