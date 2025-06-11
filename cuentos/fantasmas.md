@@ -22,12 +22,19 @@ Entraron en los archivos polvorientos, donde dormían documentos olvidados por a
 Los fantasmas, entonces, empezaron a cambiar. No desaparecieron de golpe, pero ya no parecían tan sólidos. Algunos incluso se desvanecían cuando se decía la verdad en alto.
 
 Y fue entonces cuando lo comprendieron:
+
  los fantasmas no eran solo del pasado.
+ 
  También estaban hechos del silencio del presente.
+ 
  De la inacción.
+ 
  De cada "no es mi problema".
+
 Para que el pueblo volviera a vivir sin miedo, no bastaba con que unos pocos lucharan.
+
  Todos debían despertar.
+ 
  Mirar a los ojos al pasado, y elegir algo distinto para el futuro.
 
 Feliz 1 de Mayo, ¡levantémonos!
