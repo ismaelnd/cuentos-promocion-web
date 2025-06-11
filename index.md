@@ -11,6 +11,8 @@ Cada cuento nace como una forma de procesar y expresar los sentimientos que me i
 
 Algunos relatos parten de sueños que afloran desde el subconsciente; otros utilizan metáforas o juegos conocidos (el teléfono roto, la oca, el juego de las sillas...) para representar la dinámica institucional. Son textos personales, pero probablemente muchas personas del colectivo se sentirán reflejadas en ellos.
 
+Todo estos cuentos han sido previamente publicados en mi perfil en LinkedIn.
+
 ## 📚 Cuentos
 
 - [Equilibrio](cuentos/equilibrio.md)
