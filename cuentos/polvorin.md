@@ -5,7 +5,7 @@ title: Polvorín
 
 ## Polvorín
 
-![Polvorín](../imagenes/polvorin.jpeg)
+![Polvorín](../imagenes/polvorin.png)
 
 El colectivo de acreditados y acreditadas a cátedra en la UMA es como un viejo polvorín abandonado. No lo parece desde fuera. Hay quien pasa por delante y dice:
 <p style="text-indent: 1em;">—Ah, eso ya estará resuelto.</p>
